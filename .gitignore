@@ -1,0 +1,6 @@
+Default files for Eclipse IDE
+
+.classpath
+.project
+.settings/*
+bin/*
